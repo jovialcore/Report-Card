@@ -1,6 +1,9 @@
 # Report-Card
 
 
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kmd3ztie37b8work2mw9.png)
+
+
 ## Its minimal, but it will save you a lot of time.
 
 
