@@ -14,7 +14,8 @@ To save me some time and focus more on the backend requirements for what I was b
 ### To download, clone the repo or simply copy the contents in the `index.html`.
 
 
-Demo: https://jovialcore.github.io/Report-Card/ 
+Demo 1: https://jovialcore.github.io/Report-Card/ 
+Demo 2: https://jovialcore.github.io/Report-Card/sample2
 
  
 
