@@ -1,6 +1,10 @@
 # Report-Card
 
-I had difficulty printing a page with tables customised by bootstrap CSS with laravel-pdf package.
+
+## Its minimal, but it will save you a lot of time.
+
+
+I had difficulty printing a page with tables customised by bootstrap CSS with [laravel-pdf package](https://github.com/barryvdh/laravel-dompdf) 
 One of the many reasons was that the package could not compile bootstrap css as it is huge and when it does, it takes a lot of time.
 
 So in the bid to save the situation, I had to rely on custom CSS to make properly customised tables.
@@ -9,7 +13,6 @@ To save me some time and focus more on the backend requirements for what I was b
 
 ### To download, clone the repo or simply copy the contents in the `index.html`.
 
-Its minimal, but it will save you a lot of time.
 
 Demo: https://jovialcore.github.io/Report-Card/ 
 
