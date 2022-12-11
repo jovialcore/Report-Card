@@ -9,7 +9,9 @@ To save me some time and focus more on the backend requirements for what I was b
 
 ### To download, clone the repo or simply copy the contents in the `index.html`.
 
-Its minimal, but it will save you a lot of time 
+Its minimal, but it will save you a lot of time.
+
+Demo: https://jovialcore.github.io/Report-Card/ 
 
  
 
